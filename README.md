@@ -6,16 +6,8 @@
 - 💬 Ask me about **Js, c, react , redux , tailwind **
 <!-- <h1>- 📫 How to reach me **https://felipeelia.dev/contact/**</h1> -->
 - ⚡ Fun fact **[I ❤️ 🎮](https://www.exophase.com/user/JediDeChinelo/)**
-<!-- <p>
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [Improve your code with Early Return](https://felipeelia.com/improve-your-code-with-early-return/)
-- [WP.org – Google Translate Browser Extension](https://felipeelia.com/wp-org-google-translate-browser-extension/)
-- [Scrum: ScrumMaster and Product Owner – Courses and Certification](https://felipeelia.com/scrum-scrummaster-and-product-owner-courses-and-certification/)
-- [2023 Reading List – Book and Graphic Novel Recommendations](https://felipeelia.com/2023-reading-list-book-and-graphic-novel-recommendations/)
-- [WordPress São Paulo – Super Meetup 2023](https://felipeelia.com/wordpress-sao-paulo-super-meetup-2023-en/)
-<!-- BLOG-POST-LIST:END -->
-</p> -->
+ <p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 	<a href="https://twitter.com/yasiirdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="felipe_elia" height="30" /></a>&nbsp;
