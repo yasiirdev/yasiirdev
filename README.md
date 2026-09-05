@@ -2,10 +2,9 @@
 <!-- <h3>Associate Director of Platform Engineering <a href="https://10up.com/" target="blank">@10up</a></h3> -->
 
 - 🔭 I’m currently working on [ typescript , node.js , express]
-- 📝 I regularly write articles on ([https://dev.to/yasiirdev])
-- 💬 Ask me about **Js, c, react , redux , tailwind  , node.js , express**
+- 💬 Ask me about ** Javascript, c-language, Rect , Redux state management , Tailwindcss  , Nodejs , Expressjs **
 <!-- <h1>- 📫 How to reach me **https://felipeelia.dev/contact/**</h1> -->
-- ⚡ Fun fact **[I ❤️ 🎮](https://www.exophase.com/user/JediDeChinelo/)**
+- ⚡ Fun fact **[I ❤️ programming]**
  <p>
 
 <h3 align="left">Connect with me:</h3>
