@@ -2,7 +2,7 @@
 <!-- <h3>Associate Director of Platform Engineering <a href="https://10up.com/" target="blank">@10up</a></h3> -->
 
 - 🔭 I’m currently working on [ typescript , node.js , express]
-- 💬 Ask me about ** Javascript, c-language, Rect , Redux state management , Tailwindcss  , Nodejs , Expressjs **
+- 💬 Ask me about ** Javascript, c-language, React , Redux state management , Tailwindcss  , Nodejs , Expressjs **
 <!-- <h1>- 📫 How to reach me **https://felipeelia.dev/contact/**</h1> -->
 - ⚡ Fun fact **[I ❤️ programming]**
  <p>
